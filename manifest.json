@@ -1,8 +1,20 @@
 {
   "name": "Moai Arcade Official ROM Repository",
   "version": "1.0.0",
-  "updatedAt": "2026-10-08",
+  "updatedAt": "2026-10-09",
   "totalGames": 3,
+  "plugins": {
+    "arcade": {
+      "id": "arcade",
+      "name": "Moai Arcade Engine (FBNeo)",
+      "version": "1.0.0",
+      "cores": {
+        "arm64-v8a": "cores/arm64-v8a/libfbneo.so",
+        "armeabi-v7a": "cores/armeabi-v7a/libfbneo.so",
+        "x86_64": "cores/x86_64/libfbneo.so"
+      }
+    }
+  },
   "games": [
     {
       "id": "mvsc",
