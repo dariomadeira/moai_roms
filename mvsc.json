@@ -1,0 +1,14 @@
+{
+  "id": "mvsc",
+  "name": "Marvel vs. Capcom: Clash of Super Heroes",
+  "filename": "mvsc.zip",
+  "system": "CPS-2",
+  "year": "1998",
+  "company": "Capcom",
+  "genre": "Lucha 2D / Tag-Team",
+  "players": 2,
+  "sizeBytes": 22699761,
+  "sizeLabel": "21.6 MB",
+  "url": "mvsc.zip",
+  "description": "Legendario combate tag-team 2v2 entre los héroes de Marvel y los mejores luchadores de Capcom, con asistencias especiales y super combos duales."
+}

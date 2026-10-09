@@ -1,0 +1,24 @@
+# Moai Arcade ROMs Repository
+
+Repositorio oficial de ROMs arcade para el módulo **Arcade** de **Moai TV**.
+
+## Contenido del Repositorio
+
+| Archivo | Juego | Sistema | Año | Tamaño |
+|---|---|---|---|---|
+| `mvsc.zip` | Marvel vs. Capcom: Clash of Super Heroes | CPS-2 | 1998 | ~21.6 MB |
+| `sfiii3.zip` | Street Fighter III: 3rd Strike | CPS-3 | 1999 | ~67.3 MB |
+| `outrun.zip` | Out Run | Sega OutRun | 1986 | ~856 KB |
+
+## Estructura de Catálogo
+
+- `manifest.json`: Índice maestro que consume la aplicación Moai. Contiene la metadata de todos los juegos disponibles (nombre, descripción, peso en bytes, sistema y enlace relativo).
+- `<juego>.json`: Ficha individual de metadata para cada juego.
+
+## Enlace Raw de Producción
+
+Una vez subido a GitHub (ej: `https://github.com/dariomadeira/moai_roms`), el archivo de catálogo se consume en:
+
+```
+https://raw.githubusercontent.com/dariomadeira/moai_roms/main/manifest.json
+```
