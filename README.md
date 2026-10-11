@@ -8,7 +8,9 @@ Repositorio oficial de ROMs arcade para el módulo **Arcade** de **Moai TV**.
 |---|---|---|---|---|
 | `mvsc.zip` | Marvel vs. Capcom: Clash of Super Heroes | CPS-2 | 1998 | ~21.6 MB |
 | `sfiii3.zip` | Street Fighter III: 3rd Strike | CPS-3 | 1999 | ~67.3 MB |
-| `outrun.zip` | Out Run | Sega OutRun | 1986 | ~856 KB |
+| `mshvsf.zip` | Marvel Super Heroes Vs. Street Fighter | CPS-2 | 1997 | ~22.1 MB |
+| `avsp.zip` | Alien vs. Predator | CPS-2 | 1994 | ~10.0 MB |
+| `robocop2.zip` | RoboCop 2 | Data East | 1991 | ~2.6 MB |
 
 ## Estructura de Catálogo
 

@@ -1,8 +1,8 @@
 {
   "name": "Moai Arcade Official ROM Repository",
-  "version": "1.0.0",
-  "updatedAt": "2026-10-09",
-  "totalGames": 3,
+  "version": "1.1.0",
+  "updatedAt": "2026-10-11",
+  "totalGames": 5,
   "plugins": {
     "arcade": {
       "id": "arcade",
@@ -45,18 +45,46 @@
       "description": "Obra cumbre de la lucha arcade en CPS-3. Famoso por su mecánica de Parry (bloqueo preciso), fluida animación 2D tradicional y banda sonora drum and bass."
     },
     {
-      "id": "outrun",
-      "name": "Out Run",
-      "filename": "outrun.zip",
-      "system": "Sega OutRun",
-      "year": "1986",
-      "company": "Sega",
-      "genre": "Conducción / Arcade",
-      "players": 1,
-      "sizeBytes": 877001,
-      "sizeLabel": "856 KB",
-      "url": "outrun.zip",
-      "description": "Clásico pionero de carreras al volante del Ferrari Testarossa Spider, con radio seleccionable (Magical Sound Shower) y múltiples rutas ramificadas."
+      "id": "mshvsf",
+      "name": "Marvel Super Heroes Vs. Street Fighter",
+      "filename": "mshvsf.zip",
+      "system": "CPS-2",
+      "year": "1997",
+      "company": "Capcom",
+      "genre": "Lucha 2D / Tag-Team",
+      "players": 2,
+      "sizeBytes": 23124816,
+      "sizeLabel": "22.1 MB",
+      "url": "mshvsf.zip",
+      "description": "Combate tag-team 2v2 precursor de MvC, enfrentando a los héroes de Marvel contra los guerreros mundiales de Street Fighter con la inclusión de ataques de asistencia."
+    },
+    {
+      "id": "avsp",
+      "name": "Alien vs. Predator",
+      "filename": "avsp.zip",
+      "system": "CPS-2",
+      "year": "1994",
+      "company": "Capcom",
+      "genre": "Beat 'em up / Acción",
+      "players": 3,
+      "sizeBytes": 10447343,
+      "sizeLabel": "10.0 MB",
+      "url": "avsp.zip",
+      "description": "Aclamado beat 'em up clásico de Capcom donde guerreros humanos y Depredadores forman una alianza para combatir las hordas de Xenomorfos."
+    },
+    {
+      "id": "robocop2",
+      "name": "RoboCop 2",
+      "filename": "robocop2.zip",
+      "system": "Data East",
+      "year": "1991",
+      "company": "Data East",
+      "genre": "Acción / Run and Gun",
+      "players": 2,
+      "sizeBytes": 2681392,
+      "sizeLabel": "2.6 MB",
+      "url": "robocop2.zip",
+      "description": "Clásico de acción lateral y plataformas de Data East donde controlas a RoboCop enfrentando criminales, rescatando rehenes y combatiendo a RoboCop 2 (Cain)."
     }
   ]
 }

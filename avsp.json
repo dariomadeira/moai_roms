@@ -1,0 +1,14 @@
+{
+  "id": "avsp",
+  "name": "Alien vs. Predator",
+  "filename": "avsp.zip",
+  "system": "CPS-2",
+  "year": "1994",
+  "company": "Capcom",
+  "genre": "Beat 'em up / Acción",
+  "players": 3,
+  "sizeBytes": 10447343,
+  "sizeLabel": "10.0 MB",
+  "url": "avsp.zip",
+  "description": "Aclamado beat 'em up clásico de Capcom donde guerreros humanos y Depredadores forman una alianza para combatir las hordas de Xenomorfos."
+}
