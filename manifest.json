@@ -1,6 +1,6 @@
 {
   "name": "Moai Arcade Official ROM Repository",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "updatedAt": "2026-10-11",
   "totalGames": 5,
   "plugins": {
@@ -59,18 +59,18 @@
       "description": "Combate tag-team 2v2 precursor de MvC, enfrentando a los héroes de Marvel contra los guerreros mundiales de Street Fighter con la inclusión de ataques de asistencia."
     },
     {
-      "id": "avsp",
-      "name": "Alien vs. Predator",
-      "filename": "avsp.zip",
-      "system": "CPS-2",
-      "year": "1994",
+      "id": "ffight",
+      "name": "Final Fight",
+      "filename": "ffight.zip",
+      "system": "CPS-1",
+      "year": "1989",
       "company": "Capcom",
       "genre": "Beat 'em up / Acción",
-      "players": 3,
-      "sizeBytes": 10447343,
-      "sizeLabel": "10.0 MB",
-      "url": "avsp.zip",
-      "description": "Aclamado beat 'em up clásico de Capcom donde guerreros humanos y Depredadores forman una alianza para combatir las hordas de Xenomorfos."
+      "players": 2,
+      "sizeBytes": 1429616,
+      "sizeLabel": "1.4 MB",
+      "url": "ffight.zip",
+      "description": "Legendario beat 'em up urbano de Capcom ambientado en Metro City, protagonizado por Cody, Guy y el alcalde Mike Haggar enfrentando a la pandilla Mad Gear."
     },
     {
       "id": "robocop2",
