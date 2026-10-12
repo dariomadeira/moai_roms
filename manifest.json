@@ -1,8 +1,8 @@
 {
   "name": "Moai Arcade Official ROM Repository",
-  "version": "1.2.0",
-  "updatedAt": "2026-10-11",
-  "totalGames": 5,
+  "version": "1.3.0",
+  "updatedAt": "2026-10-12",
+  "totalGames": 7,
   "plugins": {
     "arcade": {
       "id": "arcade",
@@ -85,6 +85,34 @@
       "sizeLabel": "2.6 MB",
       "url": "robocop2.zip",
       "description": "Clásico de acción lateral y plataformas de Data East donde controlas a RoboCop enfrentando criminales, rescatando rehenes y combatiendo a RoboCop 2 (Cain)."
+    },
+    {
+      "id": "ddragon",
+      "name": "Double Dragon",
+      "filename": "ddragon.zip",
+      "system": "Technos",
+      "year": "1987",
+      "company": "Technos",
+      "genre": "Beat 'em up / Acción",
+      "players": 2,
+      "sizeBytes": 534472,
+      "sizeLabel": "0.5 MB",
+      "url": "ddragon.zip",
+      "description": "Beat 'em up de Technos. Billy y Jimmy Lee avanzan por la ciudad a puñetazos y patadas para rescatar a Marian."
+    },
+    {
+      "id": "wboy",
+      "name": "Wonder Boy",
+      "filename": "wboy.zip",
+      "system": "Sega System 1",
+      "year": "1986",
+      "company": "Sega",
+      "genre": "Plataformas / Acción",
+      "players": 2,
+      "sizeBytes": 90372,
+      "sizeLabel": "0.1 MB",
+      "url": "wboy.zip",
+      "description": "Plataformas de Sega. Tom-Tom cruza bosques y cuevas con su hacha, juntando fruta para no quedarse sin energía."
     }
   ]
 }

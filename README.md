@@ -11,6 +11,8 @@ Repositorio oficial de ROMs arcade para el módulo **Arcade** de **Moai TV**.
 | `mshvsf.zip` | Marvel Super Heroes Vs. Street Fighter | CPS-2 | 1997 | ~22.1 MB |
 | `ffight.zip` | Final Fight | CPS-1 | 1989 | ~1.4 MB |
 | `robocop2.zip` | RoboCop 2 | Data East | 1991 | ~2.6 MB |
+| `ddragon.zip` | Double Dragon | Technos | 1987 | ~0.5 MB |
+| `wboy.zip` | Wonder Boy | Sega System 1 | 1986 | ~0.1 MB |
 
 ## Estructura de Catálogo
 

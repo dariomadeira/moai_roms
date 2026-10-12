@@ -1,0 +1,14 @@
+{
+  "id": "wboy",
+  "name": "Wonder Boy",
+  "filename": "wboy.zip",
+  "system": "Sega System 1",
+  "year": "1986",
+  "company": "Sega",
+  "genre": "Plataformas / Acción",
+  "players": 2,
+  "sizeBytes": 90372,
+  "sizeLabel": "0.1 MB",
+  "url": "wboy.zip",
+  "description": "Plataformas de Sega. Tom-Tom cruza bosques y cuevas con su hacha, juntando fruta para no quedarse sin energía."
+}

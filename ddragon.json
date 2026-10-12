@@ -1,0 +1,14 @@
+{
+  "id": "ddragon",
+  "name": "Double Dragon",
+  "filename": "ddragon.zip",
+  "system": "Technos",
+  "year": "1987",
+  "company": "Technos",
+  "genre": "Beat 'em up / Acción",
+  "players": 2,
+  "sizeBytes": 534472,
+  "sizeLabel": "0.5 MB",
+  "url": "ddragon.zip",
+  "description": "Beat 'em up de Technos. Billy y Jimmy Lee avanzan por la ciudad a puñetazos y patadas para rescatar a Marian."
+}
