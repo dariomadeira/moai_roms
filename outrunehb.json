@@ -1,0 +1,15 @@
+{
+  "id": "outrunehb",
+  "name": "OutRun Enhanced · 2.0.2",
+  "filename": "outrunehb.zip",
+  "system": "Sega · Arcade",
+  "year": "1986",
+  "company": "Sega",
+  "genre": "Conducción / Carreras",
+  "players": 2,
+  "sizeBytes": 883568,
+  "sizeLabel": "0.8 MB",
+  "url": "outrunehb.zip",
+  "description": "Enhanced Edition v2.0.2. ZIP completo verificado (31 archivos). Usar MOAI Lite Deluxe v0.1.36 para controles de conducción. Select: ficha; Start: iniciar; A/R2: acelerar. Carrera probada en FBNeo Linux; falta confirmar en Streamer.",
+  "sha256": "890e203169ea3d508ab5d13995a2d8f7e262d2f86cc6e2ce35ff6aa42c34a6f8"
+}

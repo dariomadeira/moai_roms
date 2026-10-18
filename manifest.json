@@ -1,8 +1,8 @@
 {
   "name": "Moai Arcade Official ROM Repository",
-  "version": "1.3.1",
-  "updatedAt": "2026-10-12",
-  "totalGames": 6,
+  "version": "1.4.0",
+  "updatedAt": "2026-10-18",
+  "totalGames": 20,
   "plugins": {
     "arcade": {
       "id": "arcade",
@@ -28,7 +28,8 @@
       "sizeBytes": 22699761,
       "sizeLabel": "21.6 MB",
       "url": "mvsc.zip",
-      "description": "Legendario combate tag-team 2v2 entre los héroes de Marvel y los mejores luchadores de Capcom, con asistencias especiales y super combos duales."
+      "description": "Legendario combate tag-team 2v2 entre los héroes de Marvel y los mejores luchadores de Capcom, con asistencias especiales y super combos duales.",
+      "sha256": "6f63627cc37c554f74e8bf07b21730fa7f85511c7d5d07449850be98dde91da8"
     },
     {
       "id": "sfiii3",
@@ -42,7 +43,8 @@
       "sizeBytes": 70592155,
       "sizeLabel": "67.3 MB",
       "url": "sfiii3.zip",
-      "description": "Obra cumbre de la lucha arcade en CPS-3. Famoso por su mecánica de Parry (bloqueo preciso), fluida animación 2D tradicional y banda sonora drum and bass."
+      "description": "Obra cumbre de la lucha arcade en CPS-3. Famoso por su mecánica de Parry (bloqueo preciso), fluida animación 2D tradicional y banda sonora drum and bass.",
+      "sha256": "8b9a0002654f289e37f58c3e26bb4111fde105e75a0834c80fa2e660f4b116d8"
     },
     {
       "id": "mshvsf",
@@ -56,7 +58,8 @@
       "sizeBytes": 23124816,
       "sizeLabel": "22.1 MB",
       "url": "mshvsf.zip",
-      "description": "Combate tag-team 2v2 precursor de MvC, enfrentando a los héroes de Marvel contra los guerreros mundiales de Street Fighter con la inclusión de ataques de asistencia."
+      "description": "Combate tag-team 2v2 precursor de MvC, enfrentando a los héroes de Marvel contra los guerreros mundiales de Street Fighter con la inclusión de ataques de asistencia.",
+      "sha256": "e847f87438af3137f6a9ccec5c24a8897a8dbb198263b68600d81961fd2f2cd4"
     },
     {
       "id": "ffight",
@@ -70,7 +73,8 @@
       "sizeBytes": 1429616,
       "sizeLabel": "1.4 MB",
       "url": "ffight.zip",
-      "description": "Legendario beat 'em up urbano de Capcom ambientado en Metro City, protagonizado por Cody, Guy y el alcalde Mike Haggar enfrentando a la pandilla Mad Gear."
+      "description": "Legendario beat 'em up urbano de Capcom ambientado en Metro City, protagonizado por Cody, Guy y el alcalde Mike Haggar enfrentando a la pandilla Mad Gear.",
+      "sha256": "a7cc8894488ee126851ee1f45eccb99e6da96f63b5bbd31689adaf08f7a37eab"
     },
     {
       "id": "robocop2",
@@ -84,7 +88,8 @@
       "sizeBytes": 2681392,
       "sizeLabel": "2.6 MB",
       "url": "robocop2.zip",
-      "description": "Clásico de acción lateral y plataformas de Data East donde controlas a RoboCop enfrentando criminales, rescatando rehenes y combatiendo a RoboCop 2 (Cain)."
+      "description": "Clásico de acción lateral y plataformas de Data East donde controlas a RoboCop enfrentando criminales, rescatando rehenes y combatiendo a RoboCop 2 (Cain).",
+      "sha256": "8760801b470bbc4663c684f2cd971c3cb01c647d7f32f0df24ba35a3cc890f1a"
     },
     {
       "id": "wboy",
@@ -96,9 +101,220 @@
       "genre": "Plataformas / Acción",
       "players": 2,
       "sizeBytes": 90372,
-      "sizeLabel": "0.1 MB",
+      "sizeLabel": "88.3 KB",
       "url": "wboy.zip",
-      "description": "Plataformas de Sega. Tom-Tom cruza bosques y cuevas con su hacha, juntando fruta para no quedarse sin energía."
+      "description": "Plataformas de Sega. Tom-Tom cruza bosques y cuevas con su hacha, juntando fruta para no quedarse sin energía.",
+      "sha256": "4c907f8e19138c03a04a1b811c275306061b727aad6980cf1901e7f56aa28d4d"
+    },
+    {
+      "id": "outrun",
+      "name": "OutRun",
+      "filename": "outrun.zip",
+      "system": "Sega · Arcade",
+      "year": "1986",
+      "company": "Sega",
+      "genre": "Conducción / Carreras",
+      "players": 2,
+      "sizeBytes": 877001,
+      "sizeLabel": "0.8 MB",
+      "url": "outrun.zip",
+      "description": "OutRun (1986), Rev B. Instalación opcional. Requiere motor FBNeo.",
+      "sha256": "a6ca0fe457238103b05bbdf0a244439c23d7381a3a96d1eacc4f36ab8df70228"
+    },
+    {
+      "id": "1943",
+      "name": "1943: The Battle of Midway",
+      "filename": "1943.zip",
+      "system": "Capcom · Arcade",
+      "year": "1987",
+      "company": "Capcom",
+      "genre": "Shoot'em up / Vertical",
+      "players": 2,
+      "sizeBytes": 305674,
+      "sizeLabel": "0.3 MB",
+      "url": "1943.zip",
+      "description": "1987, versión Euro. ZIP completo: 38 archivos verificados por tamaño y CRC. Requiere motor FBNeo.",
+      "sha256": "539d975f2acbd8b85f9dca42d7d1fe1826b2f593d0875b84490f9ba000a8cdf1"
+    },
+    {
+      "id": "gtmrb",
+      "name": "1000 Miglia: Great 1000 Miles Rally · Requiere gtmr.zip",
+      "filename": "gtmrb.zip",
+      "system": "Kaneko · Arcade",
+      "year": "1994",
+      "company": "Kaneko",
+      "genre": "Conducción / Carreras",
+      "players": 2,
+      "sizeBytes": 423605,
+      "sizeLabel": "0.4 MB",
+      "url": "gtmrb.zip",
+      "description": "Versión 94/05/26. ATENCIÓN: este ZIP es un set parcial (5 de 11 archivos). Necesita el juego base gtmr.zip compatible, en la misma carpeta de ROM, para funcionar. No se probó en el Streamer.",
+      "sha256": "bb3f3fd964df92a91be65aa1c4fc09bc10e24356e28efbe1f1d85074688a483f"
+    },
+    {
+      "id": "pacnpal",
+      "name": "Pac & Pal",
+      "filename": "pacnpal.zip",
+      "system": "Namco · Arcade",
+      "year": "1983",
+      "company": "Namco",
+      "genre": "Puzzle / Arcade",
+      "players": 2,
+      "sizeBytes": 22280,
+      "sizeLabel": "21.8 KB",
+      "url": "pacnpal.zip",
+      "description": "1983. ZIP completo: 10 archivos verificados por nombre, tamaño y CRC con FBNeo. Requiere motor FBNeo.",
+      "sha256": "601a25e9bacfefde21adbdcc42d5a35bb96f2c203ed1ee02426282a14761df85"
+    },
+    {
+      "id": "25pacmano",
+      "name": "Pac-Man · 25th Anniversary (Rev. 2.00)",
+      "filename": "25pacmano.zip",
+      "system": "Namco / Cosmodog · Arcade",
+      "year": "2005",
+      "company": "Namco / Cosmodog",
+      "genre": "Laberinto / Arcade",
+      "players": 1,
+      "sizeBytes": 70299,
+      "sizeLabel": "68.7 KB",
+      "url": "25pacmano.zip",
+      "description": "2005, Rev. 2.00. ZIP completo verificado (2 archivos). Usar MOAI Lite Deluxe v0.1.35 para preparar el primer arranque automáticamente. Esperar la preparación, pulsar Select dos veces y Start. Requiere motor FBNeo. Prueba de partida en Linux realizada; falta confirmar en Streamer.",
+      "sha256": "73655a108c125206b90324451b01daebdb492b0e7a596e0efc7c1fb4b018f384"
+    },
+    {
+      "id": "tehkanwc",
+      "name": "Tehkan World Cup",
+      "filename": "tehkanwc.zip",
+      "system": "Tehkan · Arcade",
+      "year": "1985",
+      "company": "Tehkan",
+      "genre": "Deportes / Fútbol",
+      "players": 2,
+      "sizeBytes": 193646,
+      "sizeLabel": "0.2 MB",
+      "url": "tehkanwc.zip",
+      "description": "Fútbol arcade (1985). ZIP verificado: 11 archivos del juego base coinciden por nombre, tamaño y CRC con FBNeo; incluye variantes adicionales. Controles digitales mediante emulación de trackball. Gamepad y remoto aún sin prueba física en Google TV Streamer.",
+      "sha256": "b79179abc5073c6a89826acfe37d1779e725f19b137eff9df3707698e5eb16c2"
+    },
+    {
+      "id": "outrunehb",
+      "name": "OutRun Enhanced · 2.0.2",
+      "filename": "outrunehb.zip",
+      "system": "Sega · Arcade",
+      "year": "1986",
+      "company": "Sega",
+      "genre": "Conducción / Carreras",
+      "players": 2,
+      "sizeBytes": 883568,
+      "sizeLabel": "0.8 MB",
+      "url": "outrunehb.zip",
+      "description": "Enhanced Edition v2.0.2. ZIP completo verificado (31 archivos). Usar MOAI Lite Deluxe v0.1.36 para controles de conducción. Select: ficha; Start: iniciar; A/R2: acelerar. Carrera probada en FBNeo Linux; falta confirmar en Streamer.",
+      "sha256": "890e203169ea3d508ab5d13995a2d8f7e262d2f86cc6e2ce35ff6aa42c34a6f8"
+    },
+    {
+      "id": "f1gpstr2",
+      "name": "F-1 Grand Prix Star II",
+      "filename": "f1gpstr2.zip",
+      "system": "Jaleco · Arcade",
+      "year": "1993",
+      "company": "Jaleco",
+      "genre": "Conducción / Fórmula 1",
+      "players": 2,
+      "sizeBytes": 4131456,
+      "sizeLabel": "3.9 MB",
+      "url": "f1gpstr2.zip",
+      "description": "1993. ZIP completo verificado (49 archivos). Usar MOAI Lite Deluxe v0.1.36 para volante, acelerador, freno y cambio. Select: ficha; Start: iniciar; A/R2: acelerar. Carrera probada en FBNeo Linux; falta confirmar en Streamer.",
+      "sha256": "89903646641e9517dc3a306684962f5d9d64a86825d94bab5358f8f0fbea63cf"
+    },
+    {
+      "id": "footchmp",
+      "name": "Football Champ / Euro Football Champ (World)",
+      "filename": "footchmp.zip",
+      "system": "Taito F2 · Arcade",
+      "year": "1990",
+      "company": "Taito",
+      "genre": "Deportes / Fútbol",
+      "players": 2,
+      "sizeBytes": 1991401,
+      "sizeLabel": "1.9 MB",
+      "url": "footchmp.zip",
+      "description": "Fútbol arcade (1990). ZIP completo: 12/12 archivos coinciden por nombre, tamaño y CRC con FBNeo. Dos botones de acción por jugador. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
+      "sha256": "5be202824472b68045eeecdc26a1b57bc249486a308b130220559a4209511f69"
+    },
+    {
+      "id": "flipjack",
+      "name": "Flipper Jack",
+      "filename": "flipjack.zip",
+      "system": "Jackson · Arcade",
+      "year": "1983",
+      "company": "Jackson",
+      "genre": "Pinball",
+      "players": 2,
+      "sizeBytes": 30840,
+      "sizeLabel": "30.1 KB",
+      "url": "flipjack.zip",
+      "description": "Pinball arcade, año indicado como 1983? en FBNeo. ZIP completo: 10/10 archivos verificados por nombre, tamaño y CRC. Juego vertical. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
+      "sha256": "f8766391fc80524fd7eba79481a9ec1b26b0ca93ec0190bef7e40d5a25d5bf4b"
+    },
+    {
+      "id": "hangon",
+      "name": "Hang-On (Rev A)",
+      "filename": "hangon.zip",
+      "system": "Sega · Arcade",
+      "year": "1985",
+      "company": "Sega",
+      "genre": "Conducción / Motocicletas",
+      "players": 1,
+      "sizeBytes": 389205,
+      "sizeLabel": "0.4 MB",
+      "url": "hangon.zip",
+      "description": "1985. Todos los archivos obligatorios de FBNeo presentes; 31 archivos coinciden por nombre, tamaño y CRC. Faltan solo 2 PLD opcionales. Requiere dirección, acelerador y freno analógicos: perfil de conducción aún no habilitado específicamente para Hang-On en MOAI v0.1.36. Pendiente adaptación y prueba de controles en Google TV Streamer.",
+      "sha256": "44e9cb0c0b235deddd171071bb6db543368b4a84142af89768752e1d31a8bb96"
+    },
+    {
+      "id": "galspnbl",
+      "name": "Gals Pinball",
+      "filename": "galspnbl.zip",
+      "system": "Comad · Arcade",
+      "year": "1996",
+      "company": "Comad",
+      "genre": "Pinball",
+      "players": 2,
+      "sizeBytes": 3456074,
+      "sizeLabel": "3.3 MB",
+      "url": "galspnbl.zip",
+      "description": "Pinball vertical (1996). ZIP completo: 14/14 archivos verificados por nombre, tamaño y CRC con FBNeo. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
+      "sha256": "b543898c8bfc4cdde8101233be3d8bf457d02d0e136b10c1363beb7b37b990f7"
+    },
+    {
+      "id": "sf2ce",
+      "name": "Street Fighter II · Champion Edition",
+      "filename": "sf2ce.zip",
+      "system": "Capcom CPS1 · Arcade",
+      "year": "1992",
+      "company": "Capcom",
+      "genre": "Lucha 2D / Competitivo",
+      "players": 2,
+      "sizeBytes": 3584791,
+      "sizeLabel": "3.4 MB",
+      "url": "sf2ce.zip",
+      "description": "1992, World 920513. ZIP completo: 28/28 archivos verificados por nombre, tamaño y CRC con FBNeo, incluidos 18 obligatorios y 10 PLD opcionales. Seis botones de acción. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
+      "sha256": "934a64cb81871d271a369dc4e1edf535ab0a3af7c60c59be2a366fd1eacbef7c"
+    },
+    {
+      "id": "term2",
+      "name": "Terminator 2 · Judgment Day (LA4)",
+      "filename": "term2.zip",
+      "system": "Midway Y Unit · Arcade",
+      "year": "1991",
+      "company": "Midway",
+      "genre": "Acción / Pistola",
+      "players": 2,
+      "sizeBytes": 9953492,
+      "sizeLabel": "9.5 MB",
+      "url": "term2.zip",
+      "description": "1991, rev LA4 08/03/92. ZIP completo: los 17 archivos de esta revisión coinciden por nombre, tamaño y CRC con FBNeo; incluye revisiones adicionales. Requiere motor FBNeo. Juego con apuntado de pistola: compatibilidad del apuntado con gamepad y partida pendientes de comprobar en Google TV Streamer.",
+      "sha256": "98f9a90cc4535a16602f998f99c9c3a4abcab9e94858da731183454208a22a4b"
     }
   ]
 }

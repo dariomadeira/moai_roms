@@ -1,0 +1,15 @@
+{
+  "id": "tehkanwc",
+  "name": "Tehkan World Cup",
+  "filename": "tehkanwc.zip",
+  "system": "Tehkan · Arcade",
+  "year": "1985",
+  "company": "Tehkan",
+  "genre": "Deportes / Fútbol",
+  "players": 2,
+  "sizeBytes": 193646,
+  "sizeLabel": "0.2 MB",
+  "url": "tehkanwc.zip",
+  "description": "Fútbol arcade (1985). ZIP verificado: 11 archivos del juego base coinciden por nombre, tamaño y CRC con FBNeo; incluye variantes adicionales. Controles digitales mediante emulación de trackball. Gamepad y remoto aún sin prueba física en Google TV Streamer.",
+  "sha256": "b79179abc5073c6a89826acfe37d1779e725f19b137eff9df3707698e5eb16c2"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "25pacmano",
+  "name": "Pac-Man · 25th Anniversary (Rev. 2.00)",
+  "filename": "25pacmano.zip",
+  "system": "Namco / Cosmodog · Arcade",
+  "year": "2005",
+  "company": "Namco / Cosmodog",
+  "genre": "Laberinto / Arcade",
+  "players": 1,
+  "sizeBytes": 70299,
+  "sizeLabel": "68.7 KB",
+  "url": "25pacmano.zip",
+  "description": "2005, Rev. 2.00. ZIP completo verificado (2 archivos). Usar MOAI Lite Deluxe v0.1.35 para preparar el primer arranque automáticamente. Esperar la preparación, pulsar Select dos veces y Start. Requiere motor FBNeo. Prueba de partida en Linux realizada; falta confirmar en Streamer.",
+  "sha256": "73655a108c125206b90324451b01daebdb492b0e7a596e0efc7c1fb4b018f384"
+}

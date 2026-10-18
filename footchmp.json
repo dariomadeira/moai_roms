@@ -1,0 +1,15 @@
+{
+  "id": "footchmp",
+  "name": "Football Champ / Euro Football Champ (World)",
+  "filename": "footchmp.zip",
+  "system": "Taito F2 · Arcade",
+  "year": "1990",
+  "company": "Taito",
+  "genre": "Deportes / Fútbol",
+  "players": 2,
+  "sizeBytes": 1991401,
+  "sizeLabel": "1.9 MB",
+  "url": "footchmp.zip",
+  "description": "Fútbol arcade (1990). ZIP completo: 12/12 archivos coinciden por nombre, tamaño y CRC con FBNeo. Dos botones de acción por jugador. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
+  "sha256": "5be202824472b68045eeecdc26a1b57bc249486a308b130220559a4209511f69"
+}

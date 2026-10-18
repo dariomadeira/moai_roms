@@ -1,0 +1,15 @@
+{
+  "id": "outrun",
+  "name": "OutRun",
+  "filename": "outrun.zip",
+  "system": "Sega · Arcade",
+  "year": "1986",
+  "company": "Sega",
+  "genre": "Conducción / Carreras",
+  "players": 2,
+  "sizeBytes": 877001,
+  "sizeLabel": "0.8 MB",
+  "url": "outrun.zip",
+  "description": "OutRun (1986), Rev B. Instalación opcional. Requiere motor FBNeo.",
+  "sha256": "a6ca0fe457238103b05bbdf0a244439c23d7381a3a96d1eacc4f36ab8df70228"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "galspnbl",
+  "name": "Gals Pinball",
+  "filename": "galspnbl.zip",
+  "system": "Comad · Arcade",
+  "year": "1996",
+  "company": "Comad",
+  "genre": "Pinball",
+  "players": 2,
+  "sizeBytes": 3456074,
+  "sizeLabel": "3.3 MB",
+  "url": "galspnbl.zip",
+  "description": "Pinball vertical (1996). ZIP completo: 14/14 archivos verificados por nombre, tamaño y CRC con FBNeo. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
+  "sha256": "b543898c8bfc4cdde8101233be3d8bf457d02d0e136b10c1363beb7b37b990f7"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "term2",
+  "name": "Terminator 2 · Judgment Day (LA4)",
+  "filename": "term2.zip",
+  "system": "Midway Y Unit · Arcade",
+  "year": "1991",
+  "company": "Midway",
+  "genre": "Acción / Pistola",
+  "players": 2,
+  "sizeBytes": 9953492,
+  "sizeLabel": "9.5 MB",
+  "url": "term2.zip",
+  "description": "1991, rev LA4 08/03/92. ZIP completo: los 17 archivos de esta revisión coinciden por nombre, tamaño y CRC con FBNeo; incluye revisiones adicionales. Requiere motor FBNeo. Juego con apuntado de pistola: compatibilidad del apuntado con gamepad y partida pendientes de comprobar en Google TV Streamer.",
+  "sha256": "98f9a90cc4535a16602f998f99c9c3a4abcab9e94858da731183454208a22a4b"
+}

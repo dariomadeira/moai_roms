@@ -1,0 +1,15 @@
+{
+  "id": "hangon",
+  "name": "Hang-On (Rev A)",
+  "filename": "hangon.zip",
+  "system": "Sega · Arcade",
+  "year": "1985",
+  "company": "Sega",
+  "genre": "Conducción / Motocicletas",
+  "players": 1,
+  "sizeBytes": 389205,
+  "sizeLabel": "0.4 MB",
+  "url": "hangon.zip",
+  "description": "1985. Todos los archivos obligatorios de FBNeo presentes; 31 archivos coinciden por nombre, tamaño y CRC. Faltan solo 2 PLD opcionales. Requiere dirección, acelerador y freno analógicos: perfil de conducción aún no habilitado específicamente para Hang-On en MOAI v0.1.36. Pendiente adaptación y prueba de controles en Google TV Streamer.",
+  "sha256": "44e9cb0c0b235deddd171071bb6db543368b4a84142af89768752e1d31a8bb96"
+}
