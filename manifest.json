@@ -1,8 +1,8 @@
 {
   "name": "Moai Arcade Official ROM Repository",
-  "version": "1.4.0",
-  "updatedAt": "2026-10-18",
-  "totalGames": 20,
+  "version": "1.5.0",
+  "updatedAt": "2026-11-15",
+  "totalGames": 19,
   "plugins": {
     "arcade": {
       "id": "arcade",
@@ -12,6 +12,11 @@
         "arm64-v8a": "cores/arm64-v8a/libfbneo.so",
         "armeabi-v7a": "cores/armeabi-v7a/libfbneo.so",
         "x86_64": "cores/x86_64/libfbneo.so"
+      },
+      "sha256": {
+        "arm64-v8a": "b0164da72f53d841958c54fd5c81b75d2934112866ccc7cf521bfa0d61f7f069",
+        "armeabi-v7a": "60541b4f132551d17a2333be8115aea6f72572b49c0e12110279e9b1bd0a5c44",
+        "x86_64": "98e5d72632c4ac378f874fe469ba5d31bd8584ede546d866b108a4ec54820df6"
       }
     }
   },
@@ -300,21 +305,6 @@
       "url": "sf2ce.zip",
       "description": "1992, World 920513. ZIP completo: 28/28 archivos verificados por nombre, tamaño y CRC con FBNeo, incluidos 18 obligatorios y 10 PLD opcionales. Seis botones de acción. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
       "sha256": "934a64cb81871d271a369dc4e1edf535ab0a3af7c60c59be2a366fd1eacbef7c"
-    },
-    {
-      "id": "term2",
-      "name": "Terminator 2 · Judgment Day (LA4)",
-      "filename": "term2.zip",
-      "system": "Midway Y Unit · Arcade",
-      "year": "1991",
-      "company": "Midway",
-      "genre": "Acción / Pistola",
-      "players": 2,
-      "sizeBytes": 9953492,
-      "sizeLabel": "9.5 MB",
-      "url": "term2.zip",
-      "description": "1991, rev LA4 08/03/92. ZIP completo: los 17 archivos de esta revisión coinciden por nombre, tamaño y CRC con FBNeo; incluye revisiones adicionales. Requiere motor FBNeo. Juego con apuntado de pistola: compatibilidad del apuntado con gamepad y partida pendientes de comprobar en Google TV Streamer.",
-      "sha256": "98f9a90cc4535a16602f998f99c9c3a4abcab9e94858da731183454208a22a4b"
     }
   ]
 }
