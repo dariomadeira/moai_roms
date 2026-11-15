@@ -10,6 +10,7 @@
   "sizeBytes": 4131456,
   "sizeLabel": "3.9 MB",
   "url": "f1gpstr2.zip",
+  "cover": "covers/f1gpstr2.jpg",
   "description": "1993. ZIP completo verificado (49 archivos). Usar MOAI Lite Deluxe v0.1.36 para volante, acelerador, freno y cambio. Select: ficha; Start: iniciar; A/R2: acelerar. Carrera probada en FBNeo Linux; falta confirmar en Streamer.",
   "sha256": "89903646641e9517dc3a306684962f5d9d64a86825d94bab5358f8f0fbea63cf"
 }

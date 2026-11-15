@@ -23,7 +23,6 @@ Repositorio oficial de ROMs arcade para el módulo **Arcade** de **Moai TV**.
 | `footchmp.zip` | Football Champ / Euro Football Champ (World) | Taito F2 · Arcade | 1990 | ~1.9 MB |
 | `flipjack.zip` | Flipper Jack | Jackson · Arcade | 1983 | ~30.1 KB |
 | `hangon.zip` | Hang-On (Rev A) | Sega · Arcade | 1985 | ~0.4 MB |
-| `galspnbl.zip` | Gals Pinball | Comad · Arcade | 1996 | ~3.3 MB |
 | `sf2ce.zip` | Street Fighter II · Champion Edition | Capcom CPS1 · Arcade | 1992 | ~3.4 MB |
 
 ## Estructura de Catálogo
