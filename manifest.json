@@ -1,6 +1,6 @@
 {
   "name": "Moai Arcade Official ROM Repository",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "updatedAt": "2026-11-15",
   "totalGames": 18,
   "plugins": {
@@ -33,7 +33,7 @@
       "sizeBytes": 22699761,
       "sizeLabel": "21.6 MB",
       "url": "mvsc.zip",
-      "cover": "covers/mvsc.jpg",
+      "cover": "covers/mvsc_v2.jpg",
       "description": "Legendario combate tag-team 2v2 entre los héroes de Marvel y los mejores luchadores de Capcom, con asistencias especiales y super combos duales.",
       "sha256": "6f63627cc37c554f74e8bf07b21730fa7f85511c7d5d07449850be98dde91da8"
     },
@@ -49,7 +49,7 @@
       "sizeBytes": 70592155,
       "sizeLabel": "67.3 MB",
       "url": "sfiii3.zip",
-      "cover": "covers/sfiii3.jpg",
+      "cover": "covers/sfiii3_v2.jpg",
       "description": "Obra cumbre de la lucha arcade en CPS-3. Famoso por su mecánica de Parry (bloqueo preciso), fluida animación 2D tradicional y banda sonora drum and bass.",
       "sha256": "8b9a0002654f289e37f58c3e26bb4111fde105e75a0834c80fa2e660f4b116d8"
     },
@@ -65,7 +65,7 @@
       "sizeBytes": 23124816,
       "sizeLabel": "22.1 MB",
       "url": "mshvsf.zip",
-      "cover": "covers/mshvsf.jpg",
+      "cover": "covers/mshvsf_v2.jpg",
       "description": "Combate tag-team 2v2 precursor de MvC, enfrentando a los héroes de Marvel contra los guerreros mundiales de Street Fighter con la inclusión de ataques de asistencia.",
       "sha256": "e847f87438af3137f6a9ccec5c24a8897a8dbb198263b68600d81961fd2f2cd4"
     },
@@ -81,7 +81,7 @@
       "sizeBytes": 1429616,
       "sizeLabel": "1.4 MB",
       "url": "ffight.zip",
-      "cover": "covers/ffight.jpg",
+      "cover": "covers/ffight_v2.jpg",
       "description": "Legendario beat 'em up urbano de Capcom ambientado en Metro City, protagonizado por Cody, Guy y el alcalde Mike Haggar enfrentando a la pandilla Mad Gear.",
       "sha256": "a7cc8894488ee126851ee1f45eccb99e6da96f63b5bbd31689adaf08f7a37eab"
     },
@@ -97,7 +97,7 @@
       "sizeBytes": 2681392,
       "sizeLabel": "2.6 MB",
       "url": "robocop2.zip",
-      "cover": "covers/robocop2.jpg",
+      "cover": "covers/robocop2_v2.jpg",
       "description": "Clásico de acción lateral y plataformas de Data East donde controlas a RoboCop enfrentando criminales, rescatando rehenes y combatiendo a RoboCop 2 (Cain).",
       "sha256": "8760801b470bbc4663c684f2cd971c3cb01c647d7f32f0df24ba35a3cc890f1a"
     },
@@ -113,7 +113,7 @@
       "sizeBytes": 90372,
       "sizeLabel": "88.3 KB",
       "url": "wboy.zip",
-      "cover": "covers/wboy.jpg",
+      "cover": "covers/wboy_v2.jpg",
       "description": "Plataformas de Sega. Tom-Tom cruza bosques y cuevas con su hacha, juntando fruta para no quedarse sin energía.",
       "sha256": "4c907f8e19138c03a04a1b811c275306061b727aad6980cf1901e7f56aa28d4d"
     },
@@ -129,7 +129,7 @@
       "sizeBytes": 877001,
       "sizeLabel": "0.8 MB",
       "url": "outrun.zip",
-      "cover": "covers/outrun.jpg",
+      "cover": "covers/outrun_v2.jpg",
       "description": "OutRun (1986), Rev B. Instalación opcional. Requiere motor FBNeo.",
       "sha256": "a6ca0fe457238103b05bbdf0a244439c23d7381a3a96d1eacc4f36ab8df70228"
     },
@@ -145,7 +145,7 @@
       "sizeBytes": 305674,
       "sizeLabel": "0.3 MB",
       "url": "1943.zip",
-      "cover": "covers/1943.jpg",
+      "cover": "covers/1943_v2.jpg",
       "description": "1987, versión Euro. ZIP completo: 38 archivos verificados por tamaño y CRC. Requiere motor FBNeo.",
       "sha256": "539d975f2acbd8b85f9dca42d7d1fe1826b2f593d0875b84490f9ba000a8cdf1"
     },
@@ -161,7 +161,7 @@
       "sizeBytes": 423605,
       "sizeLabel": "0.4 MB",
       "url": "gtmrb.zip",
-      "cover": "covers/gtmrb.jpg",
+      "cover": "covers/gtmrb_v2.jpg",
       "description": "Versión 94/05/26. ATENCIÓN: este ZIP es un set parcial (5 de 11 archivos). Necesita el juego base gtmr.zip compatible, en la misma carpeta de ROM, para funcionar. No se probó en el Streamer.",
       "sha256": "bb3f3fd964df92a91be65aa1c4fc09bc10e24356e28efbe1f1d85074688a483f"
     },
@@ -177,7 +177,7 @@
       "sizeBytes": 22280,
       "sizeLabel": "21.8 KB",
       "url": "pacnpal.zip",
-      "cover": "covers/pacnpal.jpg",
+      "cover": "covers/pacnpal_v2.jpg",
       "description": "1983. ZIP completo: 10 archivos verificados por nombre, tamaño y CRC con FBNeo. Requiere motor FBNeo.",
       "sha256": "601a25e9bacfefde21adbdcc42d5a35bb96f2c203ed1ee02426282a14761df85"
     },
@@ -193,7 +193,7 @@
       "sizeBytes": 70299,
       "sizeLabel": "68.7 KB",
       "url": "25pacmano.zip",
-      "cover": "covers/25pacmano.jpg",
+      "cover": "covers/25pacmano_v2.jpg",
       "description": "2005, Rev. 2.00. ZIP completo verificado (2 archivos). Usar MOAI Lite Deluxe v0.1.35 para preparar el primer arranque automáticamente. Esperar la preparación, pulsar Select dos veces y Start. Requiere motor FBNeo. Prueba de partida en Linux realizada; falta confirmar en Streamer.",
       "sha256": "73655a108c125206b90324451b01daebdb492b0e7a596e0efc7c1fb4b018f384"
     },
@@ -209,7 +209,7 @@
       "sizeBytes": 193646,
       "sizeLabel": "0.2 MB",
       "url": "tehkanwc.zip",
-      "cover": "covers/tehkanwc.jpg",
+      "cover": "covers/tehkanwc_v2.jpg",
       "description": "Fútbol arcade (1985). ZIP verificado: 11 archivos del juego base coinciden por nombre, tamaño y CRC con FBNeo; incluye variantes adicionales. Controles digitales mediante emulación de trackball. Gamepad y remoto aún sin prueba física en Google TV Streamer.",
       "sha256": "b79179abc5073c6a89826acfe37d1779e725f19b137eff9df3707698e5eb16c2"
     },
@@ -225,7 +225,7 @@
       "sizeBytes": 883568,
       "sizeLabel": "0.8 MB",
       "url": "outrunehb.zip",
-      "cover": "covers/outrunehb.jpg",
+      "cover": "covers/outrunehb_v2.jpg",
       "description": "Enhanced Edition v2.0.2. ZIP completo verificado (31 archivos). Usar MOAI Lite Deluxe v0.1.36 para controles de conducción. Select: ficha; Start: iniciar; A/R2: acelerar. Carrera probada en FBNeo Linux; falta confirmar en Streamer.",
       "sha256": "890e203169ea3d508ab5d13995a2d8f7e262d2f86cc6e2ce35ff6aa42c34a6f8"
     },
@@ -241,7 +241,7 @@
       "sizeBytes": 4131456,
       "sizeLabel": "3.9 MB",
       "url": "f1gpstr2.zip",
-      "cover": "covers/f1gpstr2.jpg",
+      "cover": "covers/f1gpstr2_v2.jpg",
       "description": "1993. ZIP completo verificado (49 archivos). Usar MOAI Lite Deluxe v0.1.36 para volante, acelerador, freno y cambio. Select: ficha; Start: iniciar; A/R2: acelerar. Carrera probada en FBNeo Linux; falta confirmar en Streamer.",
       "sha256": "89903646641e9517dc3a306684962f5d9d64a86825d94bab5358f8f0fbea63cf"
     },
@@ -257,7 +257,7 @@
       "sizeBytes": 1991401,
       "sizeLabel": "1.9 MB",
       "url": "footchmp.zip",
-      "cover": "covers/footchmp.jpg",
+      "cover": "covers/footchmp_v2.jpg",
       "description": "Fútbol arcade (1990). ZIP completo: 12/12 archivos coinciden por nombre, tamaño y CRC con FBNeo. Dos botones de acción por jugador. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
       "sha256": "5be202824472b68045eeecdc26a1b57bc249486a308b130220559a4209511f69"
     },
@@ -273,7 +273,7 @@
       "sizeBytes": 30840,
       "sizeLabel": "30.1 KB",
       "url": "flipjack.zip",
-      "cover": "covers/flipjack.jpg",
+      "cover": "covers/flipjack_v2.jpg",
       "description": "Pinball arcade, año indicado como 1983? en FBNeo. ZIP completo: 10/10 archivos verificados por nombre, tamaño y CRC. Juego vertical. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
       "sha256": "f8766391fc80524fd7eba79481a9ec1b26b0ca93ec0190bef7e40d5a25d5bf4b"
     },
@@ -289,7 +289,7 @@
       "sizeBytes": 389205,
       "sizeLabel": "0.4 MB",
       "url": "hangon.zip",
-      "cover": "covers/hangon.jpg",
+      "cover": "covers/hangon_v2.jpg",
       "description": "1985. Todos los archivos obligatorios de FBNeo presentes; 31 archivos coinciden por nombre, tamaño y CRC. Faltan solo 2 PLD opcionales. Requiere dirección, acelerador y freno analógicos: perfil de conducción aún no habilitado específicamente para Hang-On en MOAI v0.1.36. Pendiente adaptación y prueba de controles en Google TV Streamer.",
       "sha256": "44e9cb0c0b235deddd171071bb6db543368b4a84142af89768752e1d31a8bb96"
     },
@@ -305,7 +305,7 @@
       "sizeBytes": 3584791,
       "sizeLabel": "3.4 MB",
       "url": "sf2ce.zip",
-      "cover": "covers/sf2ce.jpg",
+      "cover": "covers/sf2ce_v2.jpg",
       "description": "1992, World 920513. ZIP completo: 28/28 archivos verificados por nombre, tamaño y CRC con FBNeo, incluidos 18 obligatorios y 10 PLD opcionales. Seis botones de acción. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
       "sha256": "934a64cb81871d271a369dc4e1edf535ab0a3af7c60c59be2a366fd1eacbef7c"
     }
