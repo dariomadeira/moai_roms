@@ -14,7 +14,6 @@ Repositorio oficial de ROMs arcade para el módulo **Arcade** de **Moai TV**.
 | `wboy.zip` | Wonder Boy | Sega System 1 | 1986 | ~88.3 KB |
 | `outrun.zip` | OutRun | Sega · Arcade | 1986 | ~0.8 MB |
 | `1943.zip` | 1943: The Battle of Midway | Capcom · Arcade | 1987 | ~0.3 MB |
-| `pacnpal.zip` | Pac & Pal | Namco · Arcade | 1983 | ~21.8 KB |
 | `25pacmano.zip` | Pac-Man · 25th Anniversary (Rev. 2.00) | Namco / Cosmodog · Arcade | 2005 | ~68.7 KB |
 | `tehkanwc.zip` | Tehkan World Cup | Tehkan · Arcade | 1985 | ~0.2 MB |
 | `outrunehb.zip` | OutRun Enhanced · 2.0.2 | Sega · Arcade | 1986 | ~0.8 MB |
